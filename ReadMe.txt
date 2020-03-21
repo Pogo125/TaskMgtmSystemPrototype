@@ -1,0 +1,1 @@
+Projekt basiert nicht auf Maven. Abhängigkeit zum DB Treibe muss über Eclipse Build Pfad hergestellt werden.
